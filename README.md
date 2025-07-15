@@ -6,7 +6,7 @@ Tool for viewing and editing .gbb files used in Brian Lara Cricket '99 / Shane W
 
 <ul>
   <li>
-  🔍 Decode .GBB files into viewable 32-bit BMP images.
+  🔍 Decode .GBB files into viewable 24-bit BMP images.
     
   </li><li>
   🖼️ Re-encode edited BMPs back into the .GBB format with original compression preserved.
